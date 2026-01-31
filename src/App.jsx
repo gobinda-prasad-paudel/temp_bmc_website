@@ -553,8 +553,8 @@ const DeveloperPage = () => {
                   <Smartphone className="w-5 h-5 mr-2 text-primary" />
                   Website
                 </h2>
-                <a href="https://gobindapaudel.com.np" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
-                  gobindapaudel.com.np
+                <a href="https://gobindapoudel.com.np" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
+                  gobindapoudel.com.np
                 </a>
               </div>
 
